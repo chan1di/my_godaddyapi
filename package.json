@@ -1,0 +1,11 @@
+{
+  "name": "my_godaddyapi",
+  "version": "1.0.0",
+  "description": "This package uses godaddy apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NPM user <sharmachandresh5252@gmail.com>",
+  "license": "ISC"
+}
